@@ -8,14 +8,6 @@ Over the past few months I have undergone a transformation from an enthusiastic 
 
 I come to the software development profession having previously worked for a number of years as a business analyst, during which time I have worked on a range of technology projects. It was by forming close relationships with my software development colleagues that I first became curious about code. I'm very glad I did. :)
 
-## Skills
-
-**Fast Learner** - I have always had an ability to absorb information and grasp new concepts quickly. At the Makers Academy I successfully pitched a project idea to build a universal Javascript app using React - a technology neither I nor my team members had experience with. I was able to quickly research the framework and guide my team members on its implementation, resulting in us completing a fully functional app in 5 days.  *(see Steami in my projects below)*
-
-**Analytical Thinker** - In my role at law firm Weightmans, I had the opportunity to act as lead analyst on a project to create a web app for calculating the expected costs associated with certain types of legal claim. This required me to communicate complex business logic to the software team. I used my initiative to construct an interactive wireframe model that linked the front end UI to logic trees describing the underlying calculations. I had very positive feedback from the development team as my model enabled a quick and straightforward build process.
-
-**Explainer** - I enjoy explaining concepts to others as it enables to me cement and further my own understanding. As well as having worked as a teacher during a year abroad, I was able to assist many of my fellow students at the Makers Academy with learning new skills and technologies, particularly those not covered on the course curriculum such as Node, Express, MongoDB, Bootstrap and Sass. I was humbled to receive many expressions of thanks for my patience, ability to explain and willingness to help.
-
 ## Projects
 
 All of my code is available on my [Github profile.](https://github.com/rkclark) Here are some projects that I am particularly proud of:
@@ -25,6 +17,14 @@ All of my code is available on my [Github profile.](https://github.com/rkclark) 
 | [Steami ](https://github.com/rkclark/Steami)  | A Universal Javascript app that allows to user to authenticate via [Steam](http://store.steampowered.com/), and then summarises their profile, games and achievements by use of the [Steam Web API](https://steamcommunity.com/dev). I was the project owner having pitched the idea for project week at Makers Academy. I introduced my team mates to Node, Express and MongoDB, and we then learnt and implemented React from scratch together, as well as the associated testing technologies. This was all achieved in one week.  | [Heroku](http://steami.herokuapp.com/) |  MongoDB, Express, React, Node.js, Passport, Webpack, Bootstrap, Sass, Mocha, Chai, Enzyme |
 | [Instaflash ](https://github.com/rkclark/instagram-challenge)  | Built in two days as an individual weekend challenge at the Makers Academy, this is a clone of Instagram that I built using Rails. This project gave me a chance to get my teeth into AJAX, which I used to handle user comments and likes. | [Heroku](http://rkclark-instaflash.herokuapp.com/) |  Rails, Devise, HAML, Postgresql, Paperclip, RSpec, Capybara, Poltergeist |
 | [Ardoq Multi-Bar Chart Plugin ](https://github.com/rkclark/ardoq-multi-bar-chart)  | Before my time at the Makers Academy I created a Javascript visualisation plugin for information modelling tool [Ardoq](https://ardoq.com/). The plugin allows numerical data saved in a given Ardoq model to be visualised via a d3 multi-bar chart. It significantly expands on the graphical visualisations available out-of-the-box. [Quote from Ian Stendera at Ardoq](https://twitter.com/Ian_Stendera/status/809056969332064260): *"Seriously, people aren't going to believe that we didn't pay for this. If we can only get 10 more  @R_K_Clark s..."* | *Would require Ardoq* | Javascript, Jquery, d3, NVD3 |
+
+## Skills
+
+**Fast Learner** - I have always had an ability to absorb information and grasp new concepts quickly. At the Makers Academy I successfully pitched a project idea to build a universal Javascript app using React - a technology neither I nor my team members had experience with. I was able to quickly research the framework and guide my team members on its implementation, resulting in us completing a fully functional app in 5 days.  *(see Steami in my projects above)*
+
+**Analytical Thinker** - In my role at law firm Weightmans, I had the opportunity to act as lead analyst on a project to create a web app for calculating the expected costs associated with certain types of legal claim. This required me to communicate complex business logic to the software team. I used my initiative to construct an interactive wireframe model that linked the front end UI to logic trees describing the underlying calculations. I had very positive feedback from the development team as my model enabled a quick and straightforward build process.
+
+**Explainer** - I enjoy explaining concepts to others as it enables to me cement and further my own understanding. As well as having worked as a teacher during a year abroad, I was able to assist many of my fellow students at the Makers Academy with learning new skills and technologies, particularly those not covered on the course curriculum such as Node, Express, MongoDB, Bootstrap and Sass. I was humbled to receive many expressions of thanks for my patience, ability to explain and willingness to help.
 
 
 ## Education
