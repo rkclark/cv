@@ -20,12 +20,24 @@ I come to the software development profession having previously worked for a num
 
 All of my code is available on my [Github profile.](https://github.com/rkclark) Here are some projects that I am particularly proud of:
 
-| Project  | Description | Demo | Technologies Used |
+| Project  | Description | Demo | Technologies |
 | ------------- | ------------- | ------------- | ------------- |
+| [Steami ](https://github.com/rkclark/Steami)  | A Universal Javascript app that allows to user to authenticate via [Steam](http://store.steampowered.com/), and then summarises their profile, games and achievements by use of the [Steam Web API](https://steamcommunity.com/dev). I was the project owner having pitched the idea for project week at Makers Academy. I introduced my team mates to Node, Express and MongoDB, and we then learnt and implemented React from scratch together, as well as the associated testing technologies. This was all achieved in one week.  | [Heroku](http://steami.herokuapp.com/) |  MongoDB, Express, React, Node.js, Passport, Webpack, Bootstrap, Sass, Mocha, Chai, Enzyme |
+| [Instaflash ](https://github.com/rkclark/instagram-challenge)  | Built in two days as an individual weekend challenge at the Makers Academy, this is a clone of Instagram that I built using Rails. This project gave me a chance to get my teeth into AJAX, which I used to handle user comments and likes. | [Heroku](http://rkclark-instaflash.herokuapp.com/) |  Rails, Devise, HAML, Postgresql, Paperclip, RSpec, Capybara, Poltergeist |
 | [Ardoq Multi-Bar Chart Plugin ](https://github.com/rkclark/ardoq-multi-bar-chart)  | Before my time at the Makers Academy I created a Javascript visualisation plugin for information modelling tool [Ardoq](https://ardoq.com/). The plugin allows numerical data saved in a given Ardoq model to be visualised via a d3 multi-bar chart. It significantly expands on the graphical visualisations available out-of-the-box. [Quote from Ian Stendera at Ardoq](https://twitter.com/Ian_Stendera/status/809056969332064260): *"Seriously, people aren't going to believe that we didn't pay for this. If we can only get 10 more  @R_K_Clark s..."* | *Would require Ardoq* | Javascript, Jquery, d3, NVD3 |
 
 
 ## Education
+
+### Makers Academy, London (Jan-March 2017)
+
+A highly selective and intensive 3 month software engineering course, focusing on:
+
+- Test driven development and behaviour driven development
+- Pair programming
+- Agile methodologies and XP values
+- Object-oriented design
+- Full stack web development
 
 #### BCS International Diploma in Business Analysis (2015)
 Including modules: *Business Analysis Practice, Requirements Engineering, Commercial Awareness*
@@ -39,20 +51,14 @@ and *Modelling Business Processes.*
 #### A Levels: Maths (A), Chemistry (A), French (A)
 *Greenhead College*
 
-
+#### GCSES: 7 A*'s 2 A's
 
 ## Experience
-
-### Makers Academy, London
-
-I will be attending the Makers Academy from January 2017.
-
-***************
 
 ### RPC LLP, London
 **Enterprise Business Analyst** ~ *May 2016 - Dec 2016*
 
- - Business architecture modelling
+- Business architecture modelling
 - Organisational R&D
 
 
