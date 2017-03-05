@@ -6,31 +6,23 @@ I'm looking for a role where I can use my energy and intelligence to deliver exc
 
 Over the past few months I have undergone a transformation from an enthusiastic amateur coder to an enthusiastic, confident and capable developer. I've graduated from the [Makers Academy](http://www.makersacademy.com/), an experience that I can only describe as having poured rocket fuel on my learning! It's been the most remarkable experience of my adult life and I am excited to now be taking the next steps on my journey.
 
-I come to the software development profession having previously worked for a number of years as a Business Analyst, during which time I have worked on a range of technology projects. It was by forming close relationships with my software development colleagues that I first became curious about code. I'm very glad I did. :)
+I come to the software development profession having previously worked for a number of years as a business analyst, during which time I have worked on a range of technology projects. It was by forming close relationships with my software development colleagues that I first became curious about code. I'm very glad I did. :)
 
 ## Skills
 
+**Fast Learner** - I have always had an ability to absorb information and grasp new concepts quickly. At the Makers Academy I successfully pitched a project idea to build a universal Javascript app using React - a technology neither I nor my team members had experience with. I was able to quickly research the framework and guide my team members on its implementation, resulting in us completing a fully functional app in 5 days.  *(see Steami in my projects below)*
 
+**Analytical Thinker** - In my role at law firm Weightmans, I had the opportunity to act as lead analyst on a project to create a web app for calculating the expected costs associated with certain types of legal claim. This required me to communicate complex business logic to the software team. I used my initiative to construct an interactive wireframe model that linked the front end UI to logic trees describing the underlying calculations. I had very positive feedback from the development team as my model enabled a quick and straightforward build process.
 
+**Explainer** - I enjoy explaining concepts to others as it enables to me cement and further my own understanding. As well as having worked as a teacher during a year abroad, I was able to assist many of my fellow students at the Makers Academy with learning new skills and technologies, particularly those not covered on the course curriculum such as Node, Express, MongoDB, Bootstrap and Sass. I was humbled to receive many expressions of thanks for my patience, ability to explain and willingness to help.
 
+## Projects
 
+All of my code is available on my [Github profile.](https://github.com/rkclark) Here are some projects that I am particularly proud of:
 
-
-
-
-
-
-
-
-
-
-
-
-
-#### Project Delivery
-
-I have experience with both Agile and Waterfall methodologies, and in 2015 completed the DSDM Agile Project Manager certification.
-
+| Project  | Description | Demo | Technologies Used |
+| ------------- | ------------- | ------------- | ------------- |
+| [Ardoq Multi-Bar Chart Plugin ](https://github.com/rkclark/ardoq-multi-bar-chart)  | Before my time at the Makers Academy I created a Javascript visualisation plugin for information modelling tool [Ardoq](https://ardoq.com/). The plugin allows numerical data saved in a given Ardoq model to be visualised via a d3 multi-bar chart. It significantly expands on the graphical visualisations available out-of-the-box. [Quote from Ian Stendera at Ardoq](https://twitter.com/Ian_Stendera/status/809056969332064260): *"Seriously, people aren't going to believe that we didn't pay for this. If we can only get 10 more  @R_K_Clark s..."* | *Would require Ardoq* | Javascript, Jquery, d3, NVD3 |
 
 
 ## Education
@@ -47,17 +39,7 @@ and *Modelling Business Processes.*
 #### A Levels: Maths (A), Chemistry (A), French (A)
 *Greenhead College*
 
-## Projects & Code
 
-| Project  | Description | Demo | Technologies Used |
-| ------------- | ------------- | ------------- | ------------- |
-| [Javascript Minesweeper](https://github.com/rkclark/minesweeper)  | I re-created the classic game Minesweeper with Javascript in order to practice my js, try the new Bootstrap 4 Alpha and explore how to use Gulp. The design is fully responsive and the game auto-sizes to your viewport. Note that it uses the Bootstrap 4 Alpha with Flexbox, so is only tested/stable with Chrome.  | [Link](https://rkclark.github.io/minesweeper/) | Javascript, Jquery, Sass, Bootstrap 4, Flexbox, Gulp |
-| [Ardoq d3 Sunburst Plugin](https://github.com/rkclark/ardoq-sunburst-diagram)  | I created a new way to visualise hierarchical data in [Ardoq](https://ardoq.com/) via a Javascript plugin that generates a zoomable d3 sunburst diagram. This involved exploring Ardoq's Backbone.js data model and determining how to capture, manipulate and feed the relevant data into the d3 functions, as well as creating custom CSS.   | *Would require Ardoq* | Javascript, Jquery, CSS3, d3 |
-| [Ardoq Multi-Bar Chart Plugin ](https://github.com/rkclark/ardoq-multi-bar-chart)  | This Javascript Ardoq plugin allows numerical data saved in a user's information model to be visualised via a d3 multi-bar chart. It significantly expands on the graphical visualisations available out-of-the-box by offering the user a number of un-precedented customisation options powered by my custom functions. [Quote from Ian Stendera at Ardoq](https://twitter.com/Ian_Stendera/status/809056969332064260): *"Seriously, people aren't going to believe that we didn't pay for this. If we can only get 10 more  @R_K_Clark s..."* | *Would require Ardoq* | Javascript, Jquery, d3, NVD3 |
-
-My profiles:
-
-| [Github](https://github.com/rkclark) |  [Treehouse](https://teamtreehouse.com/richardclark2) |
 
 ## Experience
 
