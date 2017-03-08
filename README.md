@@ -24,7 +24,7 @@ All of my code is available on my [Github profile.](https://github.com/rkclark) 
 
 **Analytical Thinker** - During my previous role as a business analyst, I had the opportunity to lead a project to create a web app for calculating the expected costs associated with certain types of legal claim. This required me to communicate complex business logic to the software team. I used my initiative to construct an interactive wireframe model that linked the front end UI to logic trees describing the underlying calculations. I had very positive feedback from the development team as my model enabled a quick and straightforward build process.
 
-**Explainer** - My ability to break down complex concepts and explain them in a logical, step-by-step manner has resulted in me becoming the 'go-to' person for fellow students at the Makers Academy in need of help and technical assistance. I've received wonderful feedback from my the members of my cohort for my patience and willingness to help. I've also taught many the basics of technologies not covered on the course, such as Bootstrap, Sass, Express and MongoDB. Seeing them put this new knowledge into practice has been hugely satisfying.
+**Explainer** - My ability to break down complex concepts and explain them in a logical, step-by-step manner has resulted in me becoming the 'go-to' person for fellow students at the Makers Academy in need of help and technical assistance. I've received wonderful feedback from the members of my cohort for my patience and willingness to help. I've also taught many the basics of technologies not covered on the course, such as Bootstrap, Sass, Express and MongoDB. Seeing them put this new knowledge into practice has been hugely satisfying.
 
 ## Education
 
