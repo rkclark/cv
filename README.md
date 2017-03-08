@@ -54,7 +54,7 @@ and *Modelling Business Processes.*
 #### GCSES: 7 A*'s 2 A's
 *Holmfirth High School*
 
-## My Previous Experience
+## Previous Experience
 
 ### RPC LLP, London
 **Enterprise Business Analyst** ~ *May 2016 - Dec 2016*
